@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Stock analysis program for SE 320 - Software Construction
 Author: Taylor Hancock
 Date:   02/10/2025
